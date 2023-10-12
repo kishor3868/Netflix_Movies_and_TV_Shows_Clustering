@@ -25,24 +25,24 @@ Textual Data Preprocessing: We used techniques such as stop word removal, punctu
 Cluster Implementation: We used K-Means and Agglomerative Hierarchical clustering algorithms to cluster the movies and determine the optimal number of clusters.
 Content-Based Recommendation System: We built a content-based recommendation system using the similarity matrix obtained from cosine similarity, which will provide the user with 10 recommendations based on the type of movie/show they have watched.
 # Project Structure
-├── README.md
-├── Dataset 
+├── README.md \
+├── Dataset \
 │   ├── [NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv](https://github.com/Navneet2409/netflix-movies-and-tv-shows-clustering/files/10660309/NETFLIX.MOVIES.AND.TV.SHOWS.CLUSTERING.csv)
-├── Problem Statement
+├── Problem Statement\
 │
-├── Understanding Data
+├── Understanding Data \
 │
-├── EDA
+├── EDA \
 │   ├── Numeric & Categoric features
 │   ├── Univariate Analysis
 │   ├── Bivariate Analysis
 │   ├── Multivariate Analysis
-├──Data Cleaning
+├──Data Cleaning \
 │   ├── Duplicated values
 │   ├── NaN/Missing values
 │   ├── Treating Outlier 
 │
-├── Textual Data Preprocessing
+├── Textual Data Preprocessing \
 │   ├── Clustering Attributes
 |   ├── Removing Stopwords
 |   ├── Lowercasing words
